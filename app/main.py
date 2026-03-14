@@ -19,4 +19,4 @@ async def read_root(request: Request) -> HTMLResponse:
             "message": "FastAPI app running in Docker on port 8000.",
         },
     )
-    
+
